@@ -1,6 +1,6 @@
 # 简述git的简单实用教程
 
-![image](https://github.com/Clash-of-Clanser/Git-tutorial/tree/master/Photos)
+![image](https://github.com/Clash-of-Clanser/Git-tutorial/blob/master/Photos/082e3172-93f5-4d47-a79c-0b5a17fa82ea.jpg)
 
 ##### 使用到的软件  git，markdown，atom
 
